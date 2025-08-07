@@ -1,0 +1,1 @@
+# mintyfi_python_stajegitimi
