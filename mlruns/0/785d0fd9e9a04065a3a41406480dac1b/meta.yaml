@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/785d0fd9e9a04065a3a41406480dac1b/artifacts
+end_time: 1754851616794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 785d0fd9e9a04065a3a41406480dac1b
+run_name: rumbling-tern-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754851608870
+status: 4
+tags: []
+user_id: Asus
