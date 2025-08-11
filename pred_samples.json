@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Bilet almak istiyorum, 2 yetişkin, 1 çocuk, 21:00 seansı.",
+    "prediction": 1,
+    "probability": [
+      0.3854583652363711,
+      0.6145416347636289
+    ]
+  },
+  {
+    "text": "Rezervasyonumu iptal etmek istiyorum, numara: 12345.",
+    "prediction": 0,
+    "probability": [
+      0.5045140412754023,
+      0.4954859587245976
+    ]
+  },
+  {
+    "text": "Salon çok soğuktu, şikayet etmek istiyorum.",
+    "prediction": 0,
+    "probability": [
+      0.512563027615559,
+      0.487436972384441
+    ]
+  },
+  {
+    "text": "Yeni çıkan filmleri nasıl görebilirim?",
+    "prediction": 0,
+    "probability": [
+      0.5124396568342908,
+      0.4875603431657092
+    ]
+  },
+  {
+    "text": "Ödeme sırasında kartım reddedildi, yardım lütfen.",
+    "prediction": 0,
+    "probability": [
+      0.5559726053721799,
+      0.4440273946278201
+    ]
+  }
+]
