@@ -1,0 +1,8 @@
+{
+  "epochs": 5,
+  "train_loss_last": 0.3679347596168518,
+  "train_accuracy": 0.922,
+  "val_loss_last": 0.4185970549583435,
+  "val_accuracy": 0.8705,
+  "timestamp": "2025-08-21 00:23:15"
+}
