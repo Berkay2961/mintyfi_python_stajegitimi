@@ -1,0 +1,4 @@
+transformers>=4.41
+accelerate>=0.30
+# CPU-only default; install torch separately for your platform/GPU per https://pytorch.org/get-started/locally/
+sentencepiece>=0.1.99
